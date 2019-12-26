@@ -1,0 +1,3 @@
+Tests for different RDMA cases
+1. frwr test
+    Testing FRWR aka IB_WR_REG_MR
